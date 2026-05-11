@@ -7,7 +7,7 @@
 
 ## 🧭 About Me
 
-I sit at a rare intersection: **3+ years of semiconductor validation experience at Intel** (via UST Global) combined with graduate-level training in **digital business analytics in Paris**.
+I sit at a rare intersection: **3+ years of semiconductor validation experience in us based company ** (via UST Global) combined with graduate-level training in **digital business analytics in Paris**.
 
 That means I understand what happens at the hardware level   GPU driver behaviour, embedded peripheral interfacing, root-cause defect analysis   *and* how to turn that data into clear business decisions using Power BI, Python, and Databricks.
 
