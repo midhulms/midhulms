@@ -1,10 +1,4 @@
-<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=120&section=header&text=Midhul%20M%20S&fontSize=42&fontColor=ffffff&fontAlignY=65&desc=Data%20%26%20AI%20Analytics%20%C2%B7%20Semiconductor%20Validation%20%C2%B7%20Embedded%20Systems&descAlignY=85&descFontSize=13&descFontColor=d0e8ff" />
-
-</div>
-
-<div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/midhulms)
 [![Email](https://img.shields.io/badge/Email-midhulmsofficial@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:midhulmsofficial@gmail.com)
