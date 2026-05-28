@@ -10,6 +10,8 @@
 
 ## 🧭 About Me
 
+Business Analytics professional with 5 years of experience spanning IT infrastructure, semiconductor validation, and data analytic
+
 I sit at a rare intersection   **3+ years of semiconductor validation experience** at a US-based company (via UST Global, client: Intel), combined with graduate-level training in **digital business analytics in Paris**.
 
 That means I understand what happens at the hardware level   GPU driver behaviour, embedded peripheral interfacing, root-cause defect analysis   *and* how to turn that data into clear business decisions using Power BI, Python, and Databricks.
